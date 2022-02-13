@@ -4,5 +4,5 @@ My solution to Crosskey's code test. Upon running the program you can specify th
 ## How to run
 The program can be run with maven, using
 ```
-mvn exec:java
+mvn package exec:java
 ```
